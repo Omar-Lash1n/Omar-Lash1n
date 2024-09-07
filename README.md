@@ -1,8 +1,4 @@
- <div style="background-image: url('https://i.makeagif.com/media/9-18-2018/r21do1.gif'), linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)); background-size: cover; background-position: center; padding: 20px; color: white; text-align: center; display: flex; justify-content: center; align-items: center; min-height: 300px; flex-direction: column;">
-  <h1 align="center">Hi 👋, I'm Omar Lashin</h1>
-  <h3 align="center">Junior Fullstack Developer | Junior Software Developer</h3>
-</div>
-
+![Personal Profile Banner](./Image/Info.png)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-lash1n&label=Profile%20views&color=0e75b6&style=flat" alt="omar-lash1n" /> </p>
