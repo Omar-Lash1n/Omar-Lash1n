@@ -1,20 +1,8 @@
-  <div style="
-    background-image: url('https://i.makeagif.com/media/9-18-2018/r21do1.gif'); 
-    background-size: cover; 
-    background-position: center; 
-    background-repeat: no-repeat;
-    padding: 20px; 
-    color: white; 
-    text-align: center; 
-    display: flex; 
-    justify-content: center; 
-    align-items: center; 
-    height: 100vh; 
-    flex-direction: column;
-  ">
-    <h1 style="margin: 0; font-size: 36px;">Hi 👋, I'm Omar Lashin</h1>
-    <h3 style="margin: 10px 0 0 0; font-size: 24px;">Junior Fullstack Developer | Junior Software Developer</h3>
-  </div>
+ <div style="background-image: url('https://i.makeagif.com/media/9-18-2018/r21do1.gif'), linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)); background-size: cover; background-position: center; padding: 20px; color: white; text-align: center; display: flex; justify-content: center; align-items: center; min-height: 300px; flex-direction: column;">
+  <h1 style="margin: 0; font-size: 36px;">Hi 👋, I'm Omar Lashin</h1>
+  <h3 style="margin: 10px 0 0 0; font-size: 24px;">Junior Fullstack Developer | Junior Software Developer</h3>
+</div>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-lash1n&label=Profile%20views&color=0e75b6&style=flat" alt="omar-lash1n" /> </p>
