@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Omar Lashin</h1>
 <h3 align="center">Junior Fullstack Developer | Junior Software Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://images.prismic.io/loco-blogs/ZjhW4EMTzAJOCjAJ_1_yw0TnheAGN-LPneDaTlaxw.gif?auto=format,compress">
 
 
 
