@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/omar lashin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar lashin" height="30" width="40" /></a>
-<a href="https://fb.com/omar lashin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omar lashin" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/omar_lashin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="omar_lashin" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/omar lashin](https://www.linkedin.com/in/omar-lashin-b75b37306/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar lashin" height="30" width="40" /></a>
+<a href="[https://fb.com/omar lashin](https://www.facebook.com/profile.php?id=100055163682422&mibextid=ZbWKwL)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omar lashin" height="30" width="40" /></a>
+<a href="[https://codeforces.com/profile/omar_lashin](https://codeforces.com/profile/Omar_Lashin)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="omar_lashin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
