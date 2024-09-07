@@ -1,6 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm Omar Lashin</h1>
-<h3 align="center">Junior Fullstack Developer | Junior Software Developer</h3>
+<div style="background-image: url('https://i.makeagif.com/media/9-18-2018/r21do1.gif'); background-size: cover; background-position: center; padding: 20px; color: white; text-align: center; display: flex; justify-content: center; align-items: center; height: 300px; flex-direction: column;">
+  <h1 style="margin: 0; font-size: 36px;">Hi 👋, I'm Omar Lashin</h1>
+  <h3 style="margin: 10px 0 0 0; font-size: 24px;">Junior Fullstack Developer | Junior Software Developer</h3>
+</div>
+
 
 
 
