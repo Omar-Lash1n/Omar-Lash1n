@@ -1,7 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Omar Lashin</h1>
 <h3 align="center">Junior Fullstack Developer | Junior Software Developer</h3>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40oninross%2Fdo-full-stack-developers-exist-or-are-they-just-wishful-thinking-2b7f5863af63&psig=AOvVaw3LjTj3ISAiTdCxUEMfR0vk&ust=1725815689120000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCLldmqsYgDFQAAAAAdAAAAABAg")
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-lash1n&label=Profile%20views&color=0e75b6&style=flat" alt="omar-lash1n" /> </p>
