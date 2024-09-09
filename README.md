@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-lash1n&label=Profile%20views&color=0e75b6&style=flat" alt="omar-lash1n" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omar-lash1n-ma&theme=radical" alt="omar-lash1n" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omar-lash1n&theme=radical" alt="omar-lash1n" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://images.prismic.io/loco-blogs/ZjhW4EMTzAJOCjAJ_1_yw0TnheAGN-LPneDaTlaxw.gif?auto=format,compress">
 
 - 🔭 I’m currently working on **ITI Fullstack Project**
