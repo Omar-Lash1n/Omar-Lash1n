@@ -1,4 +1,4 @@
-<body style="background-color:black;">
+
 ![Personal Profile Banner](./Image/Info.png)
 
 
@@ -31,4 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omar-lash1n&" alt="omar-lash1n" /></p>
 
-</body>
+
