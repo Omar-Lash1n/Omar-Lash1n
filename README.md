@@ -27,8 +27,8 @@
 
 ![Omar-Lash1n's Stats](https://github-readme-stats.vercel.app/api?username=Omar-Lash1n&theme=radical&show_icons=true&hide_border=false&count_private=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omar-lash1n&show_icons=true&locale=en" alt="omar-lash1n" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omar-lash1n&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="omar-lash1n" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omar-lash1n&" alt="omar-lash1n" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omar-lash1n&&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="omar-lash1n" /></p>
 
 
