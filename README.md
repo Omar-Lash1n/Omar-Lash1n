@@ -1,3 +1,4 @@
+<body style="background-color:black;">
 ![Personal Profile Banner](./Image/Info.png)
 
 
@@ -29,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omar-lash1n&show_icons=true&locale=en" alt="omar-lash1n" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omar-lash1n&" alt="omar-lash1n" /></p>
+
+</body>
