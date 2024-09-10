@@ -30,7 +30,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-lash1n&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact&count_private=true" alt="omar-lash1n" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTYweWJhYjRwanY1ZTd3MTJiem5heWhpaHJiMmw4OTdwYTc2b2tuZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.webp">
+<img align="right" alt="Coding" width="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTYweWJhYjRwanY1ZTd3MTJiem5heWhpaHJiMmw4OTdwYTc2b2tuZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.webp">
 
 <div style="display: inline-block; width: 48%; vertical-align: top; text-align: center;">
     <!-- Second section (GitHub Stats) -->
