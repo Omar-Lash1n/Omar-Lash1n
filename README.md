@@ -29,7 +29,7 @@
     <!-- First section (Most Used Languages) -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-lash1n&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact&count_private=true" alt="omar-lash1n" />
 </div>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJtZWYwd3Jxb2hnbTJncDkxN2Z5OXk3Z2ozNHMwNWN2Z3kwa2lubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp">
+<img float="right" align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJtZWYwd3Jxb2hnbTJncDkxN2Z5OXk3Z2ozNHMwNWN2Z3kwa2lubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp">
 <div style="display: inline-block; width: 48%; vertical-align: top; text-align: center;">
     <!-- Second section (GitHub Stats) -->
     <img src="https://github-readme-stats.vercel.app/api?username=omar-lash1n&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact&count_private=true" alt="omar-lash1n" />
