@@ -30,6 +30,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-lash1n&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact&count_private=true" alt="omar-lash1n" />
 </div>
 
+<img align="right" alt="Coding" width="400" src="https://images.prismic.io/loco-blogs/ZjhW4EMTzAJOCjAJ_1_yw0TnheAGN-LPneDaTlaxw.gif?auto=format,compress">
+
 <div style="display: inline-block; width: 48%; vertical-align: top; text-align: center;">
     <!-- Second section (GitHub Stats) -->
     <img src="https://github-readme-stats.vercel.app/api?username=omar-lash1n&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact&count_private=true" alt="omar-lash1n" />
