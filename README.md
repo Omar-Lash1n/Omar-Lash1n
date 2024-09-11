@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Bootstrap,NodeJs**
 
-- 👯 I’m looking to collaborate on **FAANG**
-
 - 📫 How to reach me **omaramrabdelkaderlashin@gmail.com**
 
 <h3 align="left">Connect With Me:</h3>
