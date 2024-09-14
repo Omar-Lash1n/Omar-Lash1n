@@ -31,4 +31,4 @@
 </div>
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omar-lash1&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact&count_private=true" alt="omar-lash1n" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omar-lash1n&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact&count_private=true" alt="omar-lash1n" /></p>
