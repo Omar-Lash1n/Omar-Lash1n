@@ -52,6 +52,20 @@ jobs:
               node-version: '16'
               
        - name: Install gh-actions-achievements
-
-       
         run: npm install gh-actions-achievements
+
+- name: Update profile README
+        run: |
+          npx gh-actions-achievements update \
+            --token ${{ secrets.GITHUB_TOKEN }} \
+            --username ${{ github.actor }} \
+            --repo ${{ github.repository }} \
+            --achievements="
+              - stars: ${{ github.public_repos }}
+              - followers: ${{ github.public_gists }}
+              - contributions: ${{ github.contributions }}
+              - repositories: ${{ github.public_repos }}
+              - languages: ${{ github.languages }}
+              - certifications: [\"Certification 1\", \"Certification 2\"]
+              - awards: [\"Award 1\", \"Award 2\"]
+            "
