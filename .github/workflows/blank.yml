@@ -34,3 +34,24 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+
+      - name: Update Profile Achievements
+
+        on:
+            schedule:
+                  - cron: '0 0 * * *'  # Runs daily at midnight
+
+            jobs:
+            update_achievements:
+            runs-on: ubuntu-latest
+            
+            steps:
+            - uses: actions/checkout@v3
+            - uses: actions/setup-node@v3
+            with:
+              node-version: '16'
+              
+       - name: Install gh-actions-achievements
+
+       
+        run: npm install gh-actions-achievements
