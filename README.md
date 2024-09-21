@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **ITI Fullstack Project**
 
-- 🌱 I’m currently learning **Bootstrap,NodeJs**
+- 🌱 I’m currently learning **Bootstrap,SASS**
 
 - 📫 How to reach me **omaramrabdelkaderlashin@gmail.com**
 
