@@ -7,9 +7,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omar-lash1n&theme=radical" alt="omar-lash1n" /></a> </p><br>
 <img align="right" alt="Coding" width="400" src="https://images.prismic.io/loco-blogs/ZjhW4EMTzAJOCjAJ_1_yw0TnheAGN-LPneDaTlaxw.gif?auto=format,compress"><br>
 
-- 🔭 I’m currently working on **FeEllafah Mobile App (Assistant to Mothers to take care after there Babies)**
+- 🔭 I’m currently working on **Ajial Mobile App (Parental App for Father and Mother)**
 
-- 🌱 I’m currently learning **Design patterns, Computing Algorithms**
+- 🌱 I’m currently learning **MEAN stack, Agentic AI Development**
 
 - 📫 How to reach me **omaramrabdelkaderlashin@gmail.com**
 
